@@ -1,5 +1,4 @@
-// TODO: Update to match your plugin's package name.
-package org.godotengine.plugin.android.template
+package com.gamedevzach.plugin.android.zhealth
 
 import android.util.Log
 import android.widget.Toast
